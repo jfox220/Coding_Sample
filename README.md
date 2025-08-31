@@ -4,12 +4,12 @@ This repository contains two coding samples prepared for the **CSET Data Researc
 
 ## Contents
 
-1. **R Code Sample**  
+1. **R Code Sample**  (CodingSample_Part1.R)
    - Connects to a SQL database  
    - Performs basic NLP (tokenization, top words, bigrams, sentiment analysis)  
    - Builds a Structural Topic Model (STM) to identify themes in a sample of Reddit data  
 
-2. **Python Code Sample**  
+2. **Python Code Sample**  (CodingSample_Part2.py)
    - Runs advanced NLP analysis using local models (offline mode)  
    - Includes sentiment analysis, emotion classification, toxicity & hate speech detection  
    - Extracts keywords, entities, and topics (BERTopic)  
