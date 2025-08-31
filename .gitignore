@@ -1,0 +1,34 @@
+# OS / editor files
+.DS_Store
+*.swp
+*.tmp
+
+# Python cache
+__pycache__/
+*.pyc
+*.pyo
+
+# R session files
+.Rhistory
+.RData
+.Rproj.user/
+
+# Data files (don’t leak sample or real data)
+*.csv
+*.tsv
+*.rds
+*.xlsx
+*.json
+*.gpkg
+
+# Model files / checkpoints
+*.bin
+*.ckpt
+*.pt
+*.h5
+
+# Jupyter / Colab
+.ipynb_checkpoints/
+
+# Logs
+*.log
